@@ -1,0 +1,9 @@
+mongodb pass: oqKb0mVpfrFNtcE9
+
+{
+    "name": "CSE101",
+    "author": "Maruf",
+    "description": "Fundamentals of CSE",
+    "price": 460,
+    "available": true
+}
